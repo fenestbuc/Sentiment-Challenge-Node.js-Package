@@ -1,7 +1,7 @@
 import fetch from "node-fetch";
 import {Headers} from 'node-fetch';
-var appId="3170375a4637576e6854574b304561666c614b5668614237754f7a4c78434358"
-var appSecret="726b50433833316e6452686e347754587572306c735747357555675333613172726343485436355157374d6f534e79536633674378655574753439616e66735f"
+var appId=""
+var appSecret=""
 var accessToken= ""
 var conversationId=""
 var textFromFile=""
